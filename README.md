@@ -21,6 +21,6 @@ Therefore, the following code provides an adaptation of the publicly available L
 # Provided Implementations
 - Basic_RAG.ipynb: Straightforward implementation of a locally run RAG
 - Rag_Fusion.ipynb: Implementation of the RAG Fusion approach from [Z. Rackauckas](https://arxiv.org/abs/2402.03367)
-- MultiQuery.ipynb: Implementation of the Multi Query approach, to be found in the Langchain repository[Part 5](https://github.com/langchain-ai/rag-from-scratch/blob/main/rag_from_scratch_5_to_9.ipynb)
+- MultiQuery.ipynb: Implementation of the Multi Query approach, to be found in the Langchain repository [Part 5](https://github.com/langchain-ai/rag-from-scratch/blob/main/rag_from_scratch_5_to_9.ipynb)
 
   
