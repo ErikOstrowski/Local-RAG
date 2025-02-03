@@ -10,3 +10,8 @@ The idea behind this approach is to leverage the power and vast text understandi
 For example, the following code will use PDF from research papers as database, so that the LLM can answer specific questions that can only be answered by someone who has an understanding of the underlying papers.
 Furthermore, almost all well established pretrained LLM models occupie a lot of memory, are compute intensive and are not freely available. 
 Therefore, the following code provides an adaptations of the publicly available Langchain notebooks [here](https://github.com/langchain-ai/rag-from-scratch/tree/main) to make it possible to run the RAGs localy with open-source models.
+
+# Prerequisite
+- anaconda3
+- Ollama
+Please be aware the prerequisites may not be complete and errors may appear for missing packages or libraries.
