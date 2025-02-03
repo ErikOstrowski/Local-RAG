@@ -14,4 +14,6 @@ Therefore, the following code provides an adaptations of the publicly available 
 # Prerequisite
 - anaconda3
 - Ollama
+- langchain
+- langchain_ollama
 Please be aware the prerequisites may not be complete and errors may appear for missing packages or libraries.
