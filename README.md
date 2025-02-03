@@ -16,4 +16,4 @@ Therefore, the following code provides an adaptations of the publicly available 
 - Ollama
 - langchain
 - langchain_ollama
-Please be aware the prerequisites may not be complete and errors may appear for missing packages or libraries.
+- (Please be aware the prerequisites may not be complete and errors may appear for missing packages or libraries.)
