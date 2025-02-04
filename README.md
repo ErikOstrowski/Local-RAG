@@ -17,6 +17,10 @@ Therefore, the following code provides an adaptation of the publicly available L
 - langchain
 - langchain_ollama
 - (Please be aware the prerequisites may not be complete, and errors may appear for missing packages or libraries. In that case, just install the missing libraries.)
+For Speech_to_RAG:
+- speechrecognition
+- pyttsx3
+- pyaudio
 
 # Provided Implementations
 - Basic_RAG.ipynb: Straightforward implementation of a locally run RAG
