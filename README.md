@@ -26,5 +26,6 @@ For Speech_to_RAG:
 - Basic_RAG.ipynb: Straightforward implementation of a locally run RAG
 - Rag_Fusion.ipynb: Implementation of the RAG Fusion approach from [Z. Rackauckas](https://arxiv.org/abs/2402.03367)
 - MultiQuery.ipynb: Implementation of the Multi Query approach, to be found in the Langchain repository [Part 5](https://github.com/langchain-ai/rag-from-scratch/blob/main/rag_from_scratch_5_to_9.ipynb)
+- Speech_to_Rag_Fusion_to_Speech.ipynb: Adding speech recognition to the RAG Fusion code so the user can ask the question into the microphone and get the answer back with computer-generated speech.
 
   
